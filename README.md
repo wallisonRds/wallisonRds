@@ -47,7 +47,7 @@
 
 </div>
 
-<div>
+<div display = "flex">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple)
 
