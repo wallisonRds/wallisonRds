@@ -35,7 +35,7 @@
 ---
 
 # 🌍 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/wallisonvieira)  
+- 💼 Linkedin: (https://www.linkedin.com/in/wallisonvieira)  
 - 📧 E-mail: wallisonn13@gmail.com
 
 ---
