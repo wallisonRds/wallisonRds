@@ -6,7 +6,7 @@
 # 🚀 Sobre mim
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 - 📚 Cursando **Sistemas para Internet (SENAC)**  
-- 🖥️ +1 anos de experiência em **Suporte Técnico **  
+- 🖥️ +1 anos de experiência em ** Suporte Técnico **  
 - 🔎 Explorando **JavaScript, SQL e Desenvolvimento Front-end**  
 - 💡 Objetivo: **Desenvolvimento Web**  
 
