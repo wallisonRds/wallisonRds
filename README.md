@@ -49,8 +49,8 @@
   
 </div>
 
-<div style="display: flex; flex-direction: row; align="center">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple" />
+<div style="display: flex; flex-direction: row;">
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRDS&theme=midnight-purple&layout=compact" />
 </div>
 
