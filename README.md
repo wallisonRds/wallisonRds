@@ -46,13 +46,7 @@
 
 
 </div>
-
-<div display = "flex">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRDS&layout=pie)]
-
 </div>
 
 <div style="display: flex; flex-direction: row;">
@@ -60,4 +54,5 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRDS&theme=radical&layout=compact" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple)
 
