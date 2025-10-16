@@ -27,7 +27,7 @@
 # 📊 Estatísticas do GitHub
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wallisonRDS&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wallisonRds&theme=tokyo-night)
 
 
 </div>
@@ -50,8 +50,8 @@
 </div>
 
 <div style="display: flex; flex-direction: row;">
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=wallisonRDS&show_icons=true&theme=midnight-purple" />
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRDS&theme=midnight-purple&layout=donut" />
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=wallisonRds&show_icons=true&theme=midnight-purple" />
+ <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&theme=midnight-purple&layout=donut" />
 </div>
 
 
