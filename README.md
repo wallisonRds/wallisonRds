@@ -30,5 +30,5 @@
   <p>✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀</p>
   <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wallisonRds&theme=midnight-purple" alt="GitHub Streak" /></a>
-  <a <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=compact" /></a>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=compact" />
 </div>
