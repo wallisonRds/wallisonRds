@@ -26,7 +26,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <p>✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀</p>
   <br>
 <img src="https://streak-stats.demolab.com?user=wallisonRds&theme=midnight-purple" alt="GitHub Streak" />
