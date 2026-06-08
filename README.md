@@ -30,17 +30,13 @@
 
 ---
 
+---
+
 <div align="center">
+  <p>✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀</p>
   
-✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀  
+  <br>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonRds&show_icons=true&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&theme=midnight-purple&layout=donut" />
 </div>
-  
-</div>
-
-<div style="display: flex; flex-direction: row;">
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=wallisonRds&show_icons=true&theme=midnight-purple" />
- <img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&theme=midnight-purple&layout=donut" />
-</div>
-
-
