@@ -29,8 +29,6 @@
 <div align="center">
   <p>✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀</p>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonRds&show_icons=true&theme=midnight-purple" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&theme=midnight-purple&layout=donut" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=donut-vertical" />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=wallisonRds&theme=midnight-purple)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=wallisonRds&theme=midnight-purple" alt="GitHub Streak" /></a>
+  <a <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=compact" /></a>
 </div>
