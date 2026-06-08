@@ -30,5 +30,5 @@
   <p>✨ Obrigado por visitar meu perfil! Sempre aprendendo e compartilhando. 🚀</p>
   <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallisonRds&show_icons=true&theme=midnight-purple" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&theme=midnight-purple&layout=donut" />
-   https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=donut-vertical
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallisonRds&layout=donut-vertical" />
 </div>
